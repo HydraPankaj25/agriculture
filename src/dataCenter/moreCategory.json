@@ -1,0 +1,56 @@
+[
+  {
+    "image": "logo8.png",
+    "title": "Nuts",
+    "products": "Almonds, Cashews, Walnuts, Pecans, Brazil Nuts",
+    "color": "#FDF5DE"
+  },
+  {
+    "image": "logo10.png",
+    "title": "Vegetables",
+    "products": "Carrots, Broccoli, Spinach, Tomatoes, Bell Peppers, Onions",
+    "color": "#EDFFE3"
+  },
+  {
+    "image": "logo2.png",
+    "title": "Beverages",
+    "products": "Juice, Soda, Coffee, Tea, Milk, Water",
+    "color": "#FAEAEA"
+  },
+  {
+    "image": "logo1.png",
+    "title": "Fruits",
+    "products": "Apples, Oranges, Bananas, Grapes, Strawberries",
+    "color": "#EEEEF8"
+  },
+  {
+    "image": "logo3.png",
+    "title": "Teas",
+    "products": "Black Tea, Green Tea, Herbal Tea, Oolong Tea, White Tea",
+    "color": "#F9F6D7"
+  },
+  {
+    "image": "logo4.png",
+    "title": "Sweets",
+    "products": "Chocolate, Candy, Cookies, Cake, Ice Cream",
+    "color": "#FDF5DE"
+  },
+  {
+    "image": "logo5.png",
+    "title": "Pulses",
+    "products": "Lentils, Chickpeas, Beans, Peas, Kidney Beans",
+    "color": "#EDFFE3"
+  },
+  {
+    "image": "logo6.png",
+    "title": "Snacks",
+    "products": "Chips, Popcorn, Pretzels, Crackers, Nuts",
+    "color": "#FAEAEA"
+  },
+  {
+    "image": "logo9.png",
+    "title": "Spices",
+    "products": "Cinnamon, Pepper, Turmeric, Cumin, Ginger",
+    "color": "#EEEEF8"
+  }
+]

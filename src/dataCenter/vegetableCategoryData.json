@@ -1,0 +1,101 @@
+[
+  {
+    "discount": "15% OFF",
+    "imageSrc": "category/vegetable/v2.png",
+    "imageAlt": "Cabbage",
+    "title": "Cabbage",
+    "quantity": "2 Kg",
+    "price": "Rs 27",
+    "originalPrice": "Rs 34"
+  },
+  {
+    "discount": "10% OFF",
+    "imageSrc": "category/vegetable/v1.png",
+    "imageAlt": "Spinach",
+    "title": "Spinach",
+    "quantity": "1 Kg",
+    "price": "Rs 18",
+    "originalPrice": "Rs 20"
+  },
+  {
+    "discount": "20% OFF",
+    "imageSrc": "category/vegetable/v3.png",
+    "imageAlt": "Tomatoes",
+    "title": "Tomatoes",
+    "quantity": "3 Kg",
+    "price": "Rs 60",
+    "originalPrice": "Rs 75"
+  },
+  {
+    "discount": "5% OFF",
+    "imageSrc": "category/vegetable/v4.png",
+    "imageAlt": "Potatoes",
+    "title": "Potatoes",
+    "quantity": "5 Kg",
+    "price": "Rs 80",
+    "originalPrice": "Rs 84"
+  },
+  {
+    "discount": "12% OFF",
+    "imageSrc": "category/vegetable/v5.png",
+    "imageAlt": "Onions",
+    "title": "Onions",
+    "quantity": "2 Kg",
+    "price": "Rs 44",
+    "originalPrice": "Rs 50"
+  },
+  {
+    "discount": "18% OFF",
+    "imageSrc": "category/vegetable/v9.png",
+    "imageAlt": "Corn",
+    "title": "Corn",
+    "quantity": "1 Kg",
+    "price": "Rs 37",
+    "originalPrice": "Rs 45"
+  },
+  {
+    "discount": "25% OFF",
+    "imageSrc": "category/vegetable/v7.png",
+    "imageAlt": "Broccoli",
+    "title": "Broccoli",
+    "quantity": "500 g",
+    "price": "Rs 52",
+    "originalPrice": "Rs 70"
+  },
+  {
+    "discount": "8% OFF",
+    "imageSrc": "category/vegetable/v11.png",
+    "imageAlt": "Capsicum",
+    "title": "Capsicum",
+    "quantity": "1 piece",
+    "price": "Rs 32",
+    "originalPrice": "Rs 35"
+  },
+  {
+    "discount": "14% OFF",
+    "imageSrc": "category/vegetable/v6.png",
+    "imageAlt": "Cucumber",
+    "title": "Cucumber",
+    "quantity": "1 Kg",
+    "price": "Rs 60",
+    "originalPrice": "Rs 70"
+  },
+  {
+    "discount": "22% OFF",
+    "imageSrc": "category/vegetable/v8.png",
+    "imageAlt": "Brinjal",
+    "title": "Brinjal",
+    "quantity": "500 g",
+    "price": "Rs 78",
+    "originalPrice": "Rs 100"
+  },
+  {
+    "discount": "5% OFF",
+    "imageSrc": "category/vegetable/v10.png",
+    "imageAlt": "Red Chilli",
+    "title": "Red Chilli",
+    "quantity": "500gm",
+    "price": "₹80",
+    "originalPrice": "₹85"
+  }
+]

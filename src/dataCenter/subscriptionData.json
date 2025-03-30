@@ -1,0 +1,92 @@
+[
+  {
+    "discount": "10% OFF",
+    "imageSrc": "category/dairyProducts/s1.png",
+    "imageAlt": "Amul Butter",
+    "title": "Amul Butter",
+    "quantity": "100gm",
+    "price": "₹54",
+    "originalPrice": "₹60"
+  },
+  {
+    "discount": "5% OFF",
+    "imageSrc": "category/dairyProducts/s2.png",
+    "imageAlt": "Amul Masti Buttermilk",
+    "title": "Amul Masti Buttermilk",
+    "quantity": "200ml",
+    "price": "₹19",
+    "originalPrice": "₹20"
+  },
+  {
+    "discount": "8% OFF",
+    "imageSrc": "category/dairyProducts/s3.png",
+    "imageAlt": "Amul Cheese",
+    "title": "Amul Cheese",
+    "quantity": "400gm",
+    "price": "₹184",
+    "originalPrice": "₹200"
+  },
+  {
+    "discount": "12% OFF",
+    "imageSrc": "category/dairyProducts/s4.png",
+    "imageAlt": "Amul Kool Milk",
+    "title": "Amul Kool Milk",
+    "quantity": "200ml",
+    "price": "₹22",
+    "originalPrice": "₹25"
+  },
+  {
+    "discount": "10% OFF",
+    "imageSrc": "category/dairyProducts/s5.png",
+    "imageAlt": "Amul Fresh Cream",
+    "title": "Amul Fresh Cream",
+    "quantity": "500ml",
+    "price": "₹108",
+    "originalPrice": "₹120"
+  },
+  {
+    "discount": "5% OFF",
+    "imageSrc": "category/dairyProducts/s6.png",
+    "imageAlt": "Harvest Gold Bread",
+    "title": "Harvest Gold Bread",
+    "quantity": "Big",
+    "price": "₹38",
+    "originalPrice": "₹40"
+  },
+  {
+    "discount": "7% OFF",
+    "imageSrc": "category/dairyProducts/s7.png",
+    "imageAlt": "Eggs",
+    "title": "Eggs",
+    "quantity": "10 Pieces",
+    "price": "₹65",
+    "originalPrice": "₹70"
+  },
+  {
+    "discount": "10% OFF",
+    "imageSrc": "category/dairyProducts/s8.png",
+    "imageAlt": "Coconut Cream",
+    "title": "Coconut Cream",
+    "quantity": "200ml",
+    "price": "₹72",
+    "originalPrice": "₹80"
+  },
+  {
+    "discount": "5% OFF",
+    "imageSrc": "category/dairyProducts/s9.png",
+    "imageAlt": "Oats Classic Milk",
+    "title": "Oats Classic Milk",
+    "quantity": "1ltr",
+    "price": "₹80",
+    "originalPrice": "₹85"
+  },
+  {
+    "discount": "5% OFF",
+    "imageSrc": "category/dairyProducts/s10.png",
+    "imageAlt": "Harvest Gold Atta Bread",
+    "title": "Harvest Gold Atta Bread",
+    "quantity": "Small",
+    "price": "₹28",
+    "originalPrice": "₹30"
+  }
+]

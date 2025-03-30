@@ -1,0 +1,56 @@
+[
+  {
+    "discount": "15% OFF",
+    "imageSrc": "category/snacks/sm1.png",
+    "imageAlt": "Lay's Crispz Herb & Onion Potato Chips",
+    "title": "Lay's Crispz Herb & Onion Potato Chips",
+    "quantity": "70g",
+    "price": "₹34",
+    "originalPrice": "₹40"
+  },
+  {
+    "discount": "20% OFF",
+    "imageSrc": "category/snacks/sm2.png",
+    "imageAlt": "Bingo Hashtags Spicy Masala Potato Chips",
+    "title": "Bingo Hashtags Spicy Masala Potato Chips",
+    "quantity": "75g",
+    "price": "₹40",
+    "originalPrice": "₹50"
+  },
+  {
+    "discount": "12% OFF",
+    "imageSrc": "category/snacks/sm3.png",
+    "imageAlt": "Lay's India's Magic Masala Potato Chips",
+    "title": "Lay's India's Magic Masala Potato Chips",
+    "quantity": "90g",
+    "price": "₹44",
+    "originalPrice": "₹50"
+  },
+  {
+    "discount": "18% OFF",
+    "imageSrc": "category/snacks/sm4.png",
+    "imageAlt": "Onion & Parsley Kerala Banana Chips",
+    "title": "Onion & Parsley Kerala Banana Chips",
+    "quantity": "50g",
+    "price": "₹41",
+    "originalPrice": "₹50"
+  },
+  {
+    "discount": "25% OFF",
+    "imageSrc": "category/snacks/sm5.png",
+    "imageAlt": "Haldiram's Takatak Chatpata Masala Stick",
+    "title": "Haldiram's Takatak Chatpata Masala Stick",
+    "quantity": "150g",
+    "price": "₹60",
+    "originalPrice": "₹80"
+  },
+  {
+    "discount": "10% OFF",
+    "imageSrc": "category/snacks/sm6.png",
+    "imageAlt": "Snac Lite Fun Wheels Spicy Masala Namkeen",
+    "title": "Snac Lite Fun Wheels Spicy Masala Namkeen",
+    "quantity": "80g",
+    "price": "₹27",
+    "originalPrice": "₹30"
+  }
+]

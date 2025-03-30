@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "learn/l1.png",
+    "title": "Your Grocery Cart- Get Groceries Delivered in Clicks!",
+    "category": "Grocery",
+    "date": "23 Nov, 2025",
+    "likes": 42,
+    "time": "25:00",
+    "event": "Join Event",
+    "price": 500,
+    "description": "Tired of the long grocery store lines? With just a few clicks, you can get your groceries delivered right to your door. No more hassle, just fresh food at your convenience. Perfect for busy days or when you just don't feel like going out.",
+    "tags": ["Grocery", "Shopping", "Convenience"],
+    "readTime": "10 min read"
+  },
+  {
+    "id": 2,
+    "imageUrl": "learn/l2.png",
+    "title": "A List of Essentials for Cooking Dishes",
+    "category": "Cooking",
+    "date": "20 Nov, 2025",
+    "likes": 22,
+    "time": "10:00",
+    "price": 500,
+    "description": "Cooking at home doesn’t have to be complicated. Discover the essential ingredients that will make any dish easy to prepare. Whether you’re a beginner or a seasoned chef, these staples will help you create delicious meals every time.",
+    "tags": ["Nutrition", "Recipes", "Cooking"],
+    "readTime": "8 min read"
+  },
+  {
+    "id": 3,
+    "imageUrl": "learn/l3.png",
+    "title": "From Farm to Fork- A Journey",
+    "category": "Essentials",
+    "date": "09 Nov, 2025",
+    "likes": 68,
+    "time": "30:00",
+    "price": 500,
+    "description": "Ever wondered how your food makes its way to your plate? Join us on a journey from farm to fork, exploring the process of how fresh produce reaches you, and why supporting local farms is more important than ever.",
+    "tags": ["Farm", "Food", "Journey"],
+    "readTime": "12 min read"
+  }
+]

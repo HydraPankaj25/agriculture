@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.szh-accordion__item-btn{
+    width: 100%;
+}
+.szh-accordion__item-panel{
+    padding: 1rem 1rem 1rem 0rem;
+}

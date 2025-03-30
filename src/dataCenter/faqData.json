@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What product information is typically included in the grocery website's JSON data?",
+    "answer": "Grocery website JSON data usually includes detailed information for each product, such as: `product_id`, `name`, `description`, `price`, `category`, `image_url`, `availability`, `weight/volume`, `nutritional_information`, `ingredients`, and `discount` (if applicable)."
+  },
+  {
+    "question": "How is the product inventory managed in the JSON data?",
+    "answer": "Inventory is often managed using the `availability` field, which can be a boolean (true/false) or a numerical value indicating the stock count. Updates to the inventory are reflected by changes to this field in the JSON data, ensuring real-time stock information is displayed on the website."
+  },
+  {
+    "question": "Does the JSON data include user-specific information, like saved carts or order history?",
+    "answer": "Yes, user-specific information is usually included in separate JSON endpoints or within the user's session data. For example, `/user/{user_id}/cart` might return a JSON object containing the user's cart items, and `/user/{user_id}/orders` might return their order history. This data often requires user authentication to access."
+  },
+  {
+    "question": "How are product categories organized in the JSON data?",
+    "answer": "Product categories are typically organized using a hierarchical structure within the JSON. This can be represented by nested objects or arrays, using keys like `category_id`, `category_name`, and `subcategories`. The `category` field within a product object then refers to a specific category ID, allowing for easy filtering and navigation."
+  },
+  {
+    "question": "How are discounts and promotions represented in the JSON data?",
+    "answer": "Discounts and promotions are usually represented using fields like `discount_percentage`, `discount_amount`, `promotion_start_date`, and `promotion_end_date`. These fields can be used to calculate and display discounted prices on the website. Specific promotional codes or conditions might also be included."
+  },
+  {
+    "question": "How does the JSON data handle unit pricing (e.g., price per kg or per unit)?",
+    "answer": "Unit pricing is handled by including fields like `price_per_unit`, `unit_of_measurement` (e.g., 'kg', 'lb', 'unit'), and `quantity`. The website can then use this data to calculate and display the total price based on the selected quantity and unit of measurement. For example, if the `price_per_unit` is $5 and the `unit_of_measurement` is 'kg', and the user selects 2 kg, the total price would be $10."
+  }
+]

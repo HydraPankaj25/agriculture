@@ -1,0 +1,65 @@
+[
+  {
+    "discount": "10% OFF",
+    "imageSrc": "category/dairyProducts/s1.png",
+    "imageAlt": "Amul Butter",
+    "title": "Amul Butter",
+    "quantity": "100gm",
+    "price": "₹54",
+    "originalPrice": "₹60"
+  },
+  {
+    "discount": "10% OFF",
+    "imageSrc": "category/vegetable/v1.png",
+    "imageAlt": "Spinach",
+    "title": "Spinach",
+    "quantity": "1 Kg",
+    "price": "Rs 18",
+    "originalPrice": "Rs 20"
+  },
+  {
+    "discount": "12% OFF",
+    "imageSrc": "category/dairyProducts/s4.png",
+    "imageAlt": "Amul Kool Milk",
+    "title": "Amul Kool Milk",
+    "quantity": "200ml",
+    "price": "₹22",
+    "originalPrice": "₹25"
+  },
+  {
+    "discount": "5% OFF",
+    "imageSrc": "category/dairyProducts/s6.png",
+    "imageAlt": "Harvest Gold Bread",
+    "title": "Harvest Gold Bread",
+    "quantity": "Big",
+    "price": "₹38",
+    "originalPrice": "₹40"
+  },
+  {
+    "discount": "5% OFF",
+    "imageSrc": "category/vegetable/v4.png",
+    "imageAlt": "Potatoes",
+    "title": "Potatoes",
+    "quantity": "5 Kg",
+    "price": "Rs 80",
+    "originalPrice": "Rs 84"
+  },
+  {
+    "discount": "25% OFF",
+    "imageSrc": "category/vegetable/v7.png",
+    "imageAlt": "Broccoli",
+    "title": "Broccoli",
+    "quantity": "500 g",
+    "price": "Rs 52",
+    "originalPrice": "Rs 70"
+  },
+  {
+    "discount": "5% OFF",
+    "imageSrc": "category/dairyProducts/s9.png",
+    "imageAlt": "Oats Classic Milk",
+    "title": "Oats Classic Milk",
+    "quantity": "1ltr",
+    "price": "₹80",
+    "originalPrice": "₹85"
+  }
+]
