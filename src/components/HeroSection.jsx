@@ -3,7 +3,7 @@ import React from "react";
 const HeroSection = () => {
   return (
     <>
-      <div className="bg-[url(banner/banner5.jpg)] bg-no-repeat bg-center bg-cover min-h-[60vh] sm:min-h-[80vh] p-4 sm:p-10 md:p-20 flex flex-col justify-center items-start gap-4 sm:gap-8 rounded-b-[3rem]">
+      <div style={{backgroundImage:"url(banner/banner5.jpg)"}} className="bg-no-repeat bg-center bg-cover min-h-[60vh] sm:min-h-[80vh] p-4 sm:p-10 md:p-20 flex flex-col justify-center items-start gap-4 sm:gap-8 rounded-b-[3rem]">
         <div className="text-3xl sm:text-4xl md:text-5xl font-semibold text-[#ffffff] max-w-full sm:max-w-[80%] md:max-w-[60%] lg:max-w-[50%]">
           Live Long, Have Some Veggies
         </div>
